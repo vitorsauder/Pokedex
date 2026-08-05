@@ -1,0 +1,1 @@
+const POKEMONS = 1025;
